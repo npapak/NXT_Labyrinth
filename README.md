@@ -36,15 +36,19 @@ Usage
 1) Build the NXT Mindstorms car and draw the Labyrinth.
 
 2) Build the firmware
+
 	make all
 
 3) Download the firmware to Lego NXT Mindstorms
+
 	make download
 
 Optional:
 
 4) Remove the object files
+
 	make clean
 
 5) Remove the elf and bin files
+
 	make distclean
