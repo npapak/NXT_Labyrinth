@@ -16,7 +16,7 @@ WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 You should  have received a copy of  the GNU General  Public License along with
-NXT Labyrinth Solver; see the file COPYING.  If not, write to 
+NXT Labyrinth Solver; see the file LIECENCE.  If not, write to 
 Free Software Foundation, 59 Temple Place - Suite 330, Boston, MA 02111-1307,
 USA.
 
@@ -27,6 +27,8 @@ NXT Labyrinth allows to an NXT Mindstorms to get out of a Labyrinth using the
 "right hand rule". To use this firmware, you need two light sensors, one touch
 sensor and two motors. The light sensors used as the right and left hand, the
 touch sensor used for starting and stopping the NXT.
+
+[Demo](https://dl.dropboxusercontent.com/u/6873550/MOV_0043.mp4)
 
 Usage
 =====
