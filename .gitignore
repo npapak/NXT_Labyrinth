@@ -4,7 +4,6 @@
 *.o
 *.bin
 *.elf
-*out*
 *.csv
 
 # Ignore directories and their content
