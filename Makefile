@@ -65,7 +65,7 @@ CFLAGS += -Os
 # gnu89 - c89 plus GCC extensions
 # c99   - ISO C99 standard (not yet fully implemented)
 # gnu99 - c99 plus GCC extensions
-CFLAGS += -std=gnu99
+CFLAGS += -std=gnu99 -w
 # Compiler flags to generate dependency files.
 CFLAGS  += -MD -MP -MF .dep/$(@F).d
 
