@@ -35,8 +35,8 @@ void sensors(){
 		if( motor_state == 1 ){
 			PITInterruptDisable();
 			DisplayString(0, 16, "Go Forward!");
-			OutputSetSpeed (0,70);
-			OutputSetSpeed (1,70);
+			OutputSetSpeed (0,75);
+			OutputSetSpeed (1,75);
 		}
 		else{
 			DisplayString(0, 16, "Motors Stopped!");

@@ -7,7 +7,7 @@
 *.csv
 
 # Ignore directories and their content
-lib/
+#lib/
 logs/
 
 # Ignore tags file

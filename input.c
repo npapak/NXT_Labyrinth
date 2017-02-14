@@ -22,15 +22,15 @@ enum input_states_t InputGetSensorValue(UBYTE port){
 	UWORD value = IoFromAvr.AdValue[port];
 	switch(port){
 		case 0://port 1 light
-			/*if(value > 0x234 && value < 0x3F0)*/
-			if(value > 0x2A0 && value < 0x3F0)
+			if(value > 0x234 && value < 0x3F0)
+//			if(value > 0x2A0 && value < 0x3F0)
 				return LIGHT_BLACK;
 			else
 				return LIGHT_WHITE;
 			return NO_VALUE;
 		case 1://port 2 light
-			/*if(value > 0x234 && value < 0x3F0)*/
-			if(value > 0x2A0 && value < 0x3F0)
+			if(value > 0x234 && value < 0x3F0)
+//			if(value > 0x2A0 && value < 0x3F0)
 				return LIGHT_BLACK;
 			else
 				return LIGHT_WHITE;
