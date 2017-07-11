@@ -1,8 +1,10 @@
 NXT Labyrinth Solver.
 =========================================================
-Nikos Papakonstantinou <npapak@gmail.com>
+Nikos Papakonstantinou <npapak@gmail.com> 
+----------------------------
 Dimitris Kamileris
 ----------------------------
+
 
 License
 =========
@@ -29,7 +31,7 @@ NXT Labyrinth allows to an NXT Mindstorms to get out of a Labyrinth using the
 sensor and two motors. The light sensors used as the right and left hand, the
 touch sensor used for starting and stopping the NXT.
 
-[Demo](https://dl.dropboxusercontent.com/u/6873550/MOV_0043.mp4)
+[Demo](https://www.dropbox.com/s/k0ppxol989ol3ct/MOV_0043.mp4?dl=0)
 
 Usage
 =====
