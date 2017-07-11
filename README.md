@@ -1,6 +1,7 @@
 NXT Labyrinth Solver.
 =========================================================
-Nikos Papakonstantinou 2015
+Nikos Papakonstantinou <npapak@gmail.com>
+Dimitris Kamileris
 ----------------------------
 
 License
