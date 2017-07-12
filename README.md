@@ -1,8 +1,8 @@
 NXT Labyrinth Solver.
 =========================================================
-Nikos Papakonstantinou <npapak@gmail.com> 
+Nikos Papakonstantinou <npapak@gmail.com>
 ----------------------------
-Dimitris Kamileris
+Dimitris Kamileris 		 <dimkamileris@gmail.com>
 ----------------------------
 
 
